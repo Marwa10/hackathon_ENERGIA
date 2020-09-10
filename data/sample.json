@@ -1,0 +1,110 @@
+{
+"marches": [   
+	{
+      "uid": "04555025800029201906400",
+      "lieuExecution": [
+        {
+          "code": "34070",
+          "nom": "Montpellier",
+          "coords": [43.6, 3.8833]
+        }
+      ],
+      "codeCPV": "09310000",
+      "dureeMois": 12,
+      "acheteur": {
+        "nom": "Sia Habitat"
+      },
+      "datePublicationDonnees": "2019-10-22",
+      "dateNotification": "2019-10-10",
+      "objet": "Fourniture et acheminement d'énergie électrique",
+      "montant": 92308,
+      "currency": "euro",
+      "score_green": 0.5,
+      "power": 50000,
+      "mots_cles": {
+      	"énergie" : 0.6,
+      	"Fourniture" : 0.5
+      }
+    },
+      {
+      "uid": "29201906400045550258000",
+      "lieuExecution": [
+        {
+          "code": "30000",
+          "nom": "Nîmes",
+          "coords": [43.8333, 4.35]
+        }
+      ],
+      "codeCPV": "9330000",
+      "dureeMois": 16,
+      "acheteur": {
+        "nom": "Agglomération de Nîmes"
+      },
+      "datePublicationDonnees": "2020-01-15",
+      "dateNotification": "2020-01-04",
+      "objet": "Installation de panneaux photovoltaiques",
+      "montant": 321000,
+      "currency": "euro",
+      "score_green": 0.8,
+      "power": 500000,
+      "mots_cles": {
+        "énergie" : 0.6,
+        "solaire" : 0.9,
+        "photovoltaiques": 0.9
+      }
+    },
+      {
+      "uid": "02580000455529201906400",
+      "lieuExecution": [
+        {
+          "code": "31000",
+          "nom": "Toulouse",
+          "coords": [43.6, 1.433333]
+        }
+      ],
+      "codeCPV": "09300000",
+      "dureeMois": 24,
+      "acheteur": {
+        "nom": "Toulouse habitat"
+      },
+      "datePublicationDonnees": "2020-08-22",
+      "dateNotification": "2020-08-01",
+      "objet": "Maintenance d'installations nucléaires",
+      "montant": 221000,
+      "currency": "euro",
+      "score_green": 0.3,
+      "power": 5000000,
+      "mots_cles": {
+        "nucléaire" : 0.6,
+        "maintenance" : 0.2
+      }
+    },
+      {
+      "uid": "04555292002580001906400",
+      "lieuExecution": [
+        {
+          "code": "34000",
+          "nom": "Montpellier",
+          "coords": [43.6, 3.8833]
+        }
+      ],
+      "codeCPV": "39715000",
+      "dureeMois": 9,
+      "acheteur": {
+        "nom": "Montpellier Métropole"
+      },
+      "datePublicationDonnees": "2020-04-22",
+      "dateNotification": "2020-04-10",
+      "objet": "Rénovation de systèmes de chauffage fioul",
+      "montant": 813101,
+      "currency": "euro",
+      "score_green": 0.1,
+      "power": 5000,
+      "mots_cles": {
+        "chauffage" : 0.3,
+        "fioul" : 0.5
+      }
+    },
+
+]
+}
