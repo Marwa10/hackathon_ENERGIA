@@ -1,6 +1,6 @@
 # hackathon ENERGIA TECH
 
-Sujet C6 : https://www.hackathon-energia.tech/files/C6.pdf
+Sujet C2 :https://www.hackathon-energia.tech/files/C2.pdf
 
 Ressources : https://www.hackathon-energia.tech/ressources/
 
